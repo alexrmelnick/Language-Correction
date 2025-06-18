@@ -1,4 +1,4 @@
-# Group 6
+# Note: this project was completed in Spring 2024. I have only now transfered the repo from GitLab to GitHub
 ## Summary
 Our group aims to develop a Language Correction software that efficiently analyzes text for correct language usage by crawling through pages of the target language(s) on the Internet. The evaluator will compile common usage patterns of words and phrases from crawled texts and use them as a reference to identify words or phrases that are consistent or inconsistent with the gathered data. This project will assist users in improving their language skills and ensuring the accuracy of their written content.
 
