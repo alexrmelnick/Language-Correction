@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Compile the Java program
+javac ScratchCrawler.java
+
+# Run the Java program with the passed arguments
+echo "Running ScratchCrawler with arguments:"
+echo "$@"
+java ScratchCrawler "$@"

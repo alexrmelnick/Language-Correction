@@ -1,0 +1,2 @@
+Main-Class: Corrector
+Class-Path: SQLite/sqlite-jdbc-3.45.2.0.jar SQLite/slf4j-api-1.7.36.jar SQLite/slf4j-jdk14-1.7.36.jar
